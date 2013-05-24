@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "WNdb": {
+      "version": "3.0.1",
+      "dependencies": {
+        "tar": {
+          "version": "0.1.17",
+          "dependencies": {
+            "inherits": {
+              "version": "1.0.0"
+            },
+            "block-stream": {
+              "version": "0.0.6"
+            },
+            "fstream": {
+              "version": "0.1.22",
+              "dependencies": {
+                "rimraf": {
+                  "version": "2.1.4"
+                },
+                "mkdirp": {
+                  "version": "0.3.5"
+                },
+                "graceful-fs": {
+                  "version": "1.2.1"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,1 +1,1 @@
-Natural = Npm.require("natural");
+WNdb = Npm.require("WNdb");
