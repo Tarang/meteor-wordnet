@@ -6,5 +6,5 @@ A wrapper around WordNet for [Natural](https://github.com/NaturalNode/natural) f
 mrt add wordnet
 
 ##Usage
-natural = new Natural;
+natural = Natural;
 wordnet = natural.WordNet();
