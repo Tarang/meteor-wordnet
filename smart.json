@@ -1,0 +1,9 @@
+{
+  "name": "wordnet",
+  "description": "WordNet database, packaged for Meteor",
+  "homepage": "https://github.com/pent/meteor-wordnet",
+  "author": "Jonathan Pidgeon <jon@empire5design.com",
+  "version": "1.0.0",
+  "git": "https://github.com/pent/meteor-wordnet.git",
+  "packages": {}
+}
