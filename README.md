@@ -7,4 +7,4 @@ mrt add wordnet
 
 ##Usage
 natural = Natural;
-wordnet = natural.WordNet();
+wordnet = new natural.WordNet();
