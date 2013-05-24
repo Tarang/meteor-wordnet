@@ -6,5 +6,4 @@ A wrapper around [WordNet](https://github.com/moos/WNdb) for [Natural](https://g
 mrt add wordnet
 
 ##Usage
-natural = Natural;
-wordnet = new natural.WordNet();
+wordnet = new WordNet();

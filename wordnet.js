@@ -1,1 +1,1 @@
-WNdb = Npm.require("WNdb");
+WordNet = Npm.require("WNdb");
